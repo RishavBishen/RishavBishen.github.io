@@ -2,7 +2,7 @@
 ##  About me
 known as **Rishav Bishen**. I am one of the prospecting students i the computer science and engineering department at IIT Goa.hailing from Saran district of Bihar.I am truly an ordinary individual. Do not let my appearance or words deceive you.
 ## Education 
-|Academic year | standard |i school |
+|Academic year | standard | school |
 | --- | --- |--- |
 |2008-2023|nursery-12th|Holy Trinity Mission School and Dhoon Senior Secondary School|2023-2027|B.Tech|IIT Goa|
 
