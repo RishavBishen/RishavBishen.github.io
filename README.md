@@ -1,7 +1,7 @@
 # profile page 
 ##  About me
 known as **Rishav Bishen**. I am one of the prospecting students of the computer science and engineering department at IIT Goa.hailing from Saran district of Bihar.I am truly an ordinary individual. Do not let my appearance or words deceive you.
-
+![Rishav.jpg](https://raw.githubusercontent.com/RishavBishen/RishavBishen.github.io/main/Rishav.github.jpg)
 ## Education 
 |Academic year | standard | school |
 | --- | --- |--- |
